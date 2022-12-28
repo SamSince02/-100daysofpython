@@ -4,7 +4,7 @@ import random
 
 if input("Do you wanna play a game of Blackjack ? Type 'y' or 'n'") == "y":
 
-  print(logo)
+  print(logo1)
 
   cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
   user_cards = []
